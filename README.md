@@ -3,7 +3,7 @@
 We implement a Physics-Informed Deep Operator Network (PI-DeepONet) to learn the solution operator of several differential equations. We then make use of any underlying physical laws governing these equations to add an extra layer (conservative layer) to predict more accurate and physical meaningful solutions.
 
 In this project, we mostly focus on 3 differential systems:
-1. A low order modeling of the Barotropic Vorticity Equation
+1. A low order modeling of the Barotropic Vorticity Equation (also referred to as the Lorenz model)
 2. The Double Pendulum
 3. The Toda Lattice equations
    
